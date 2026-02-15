@@ -1,0 +1,20 @@
+{
+  "id": "55109e1b-2e03-49ff-85ef-0f7a73a1de18",
+  "description": "more lunch",
+  "amount": 1000,
+  "category": "Food",
+  "date": "2026-02-15",
+  "currency": "USD",
+  "split_with": [
+    "Atishay4294",
+    "ankithooda"
+  ],
+  "split_type": "percentage",
+  "split_details": {
+    "ankithooda": 10,
+    "Atishay4294": 90
+  },
+  "owner": "ankithooda",
+  "settled": false,
+  "created_at": "2026-02-15T12:16:19.253Z"
+}
